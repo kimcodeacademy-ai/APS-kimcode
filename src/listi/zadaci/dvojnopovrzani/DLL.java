@@ -1,4 +1,4 @@
-package listi.zadaci;
+package listi.zadaci.dvojnopovrzani;
 
 public class DLL<E> {
     private DLLNode<E> first, last;

@@ -1,4 +1,4 @@
-package listi.zadaci;
+package listi.zadaci.dvojnopovrzani;
 
 public class DLLNode<E> {
     protected E element;

@@ -1,4 +1,4 @@
-package listi.zadaci;
+package listi.zadaci.edinecnopovrzani;
 
 public class SLL<E> {
     private SLLNode<E> first;
