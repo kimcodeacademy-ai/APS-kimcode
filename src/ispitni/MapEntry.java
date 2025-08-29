@@ -1,4 +1,4 @@
-package heshiranje;
+package ispitni;
 
 // клучот К ќе може да се споредува со клуч ист тип
 public class MapEntry<K extends Comparable<K>,E> implements Comparable<K> {
